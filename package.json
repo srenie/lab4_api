@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
     "express": "^4.19.2",
     "nodemon": "^3.1.0"
   }
